@@ -676,7 +676,7 @@ h5 {
 }
 
 /* For screens between 1700px and 2000px wide */
-@media only screen and (min-width: 1024px) and (max-width: 2000px) {
+@media only screen and (min-width: 1444px) and (max-width: 2000px) {
     .catagories {
         width: 85vw;
         height: 100vh;

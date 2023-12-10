@@ -488,7 +488,7 @@ h5 {
     }
 
     .main {
-        height: 100%;
+        height: 100vh;
     }
 
     .flex span {
@@ -567,6 +567,7 @@ h5 {
 
         width: 100%;
         margin: auto;
+        text-align: center;
     }
 
     .catagories-3 .appartment-image {
